@@ -50,8 +50,3 @@ Deliver a SQL analytics suite that tracks total revenue, models consumer demand 
 
 ---
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/pizza-sales-sql-analytics.git](https://github.com/YOUR_USERNAME/pizza-sales-sql-analytics.git)
